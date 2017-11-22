@@ -1,1 +1,3 @@
 # AnaliseUFPB
+
+O arquivo Separar_por_curso.r contém o código usado separar a quantidade de homens e mulheres por cada curso. Com esses dados é possível gerar o gráfico de pontos cujo código está no arquivo DotPlot.r. Para gerar os gráficos usando a porcentagem de homens e mulheres em cada curso foi utilizado o código do arquivo Porcentagem_de_homens_e_mulheres_por_curso.r. O código necessário para o gráfico com os 25 cursos com mais homens e os 25 cursos com mais mulheres está no arquivo Porcentagem_Fill.r e o código para os gráficos de predominância de homens, mulheres e os cursos sem predominância está no arquivo Plota_predominância.r.
